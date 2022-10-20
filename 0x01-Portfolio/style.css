@@ -1,7 +1,13 @@
 * {
-    background-color: brown;
-    text-align: center;
+    text-align: left;
 }
 #efo {
-    text-align: center;
+    text-align: left;
+    padding: auto;
+    margin: auto;
+}
+#kosewo {
+    text-align: left;
+    margin: auto;
+    padding: auto;
 }
