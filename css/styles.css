@@ -1,5 +1,5 @@
 body {
-        background-color: #f7efe5;
+    background-color: #f7efe5;
     }
 hr {
     border-style: none;
@@ -8,12 +8,16 @@ hr {
     border-width: 5px;
     width: 5%;
 }
-#lio {
-    color: #c31cd0;
-}
 h1 {
     color: #674188;
 }
 h3 {
     color: #674188;
+}
+.ayo:hover {
+    border-radius: 100%;
+
+}
+#lio {
+    color: #c31cd0;
 }
